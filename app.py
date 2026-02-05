@@ -66,6 +66,7 @@ def main():
             else:
                 st.warning("Имаш нужда от малко преговор.")
 
-
+if __name__ == "__main__":
     main()
+
 
